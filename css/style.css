@@ -299,3 +299,25 @@ img {
 .detalhes ul {
   max-width: 640px;
 }
+
+/* Rodape */
+.rodape {
+  background-color: #0f5132;
+  color: #d1e7dd;
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+.rodape p {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+.rodape a {
+  color: #ffffff;
+}
+
+.rodape a:hover,
+.rodape a:focus-visible {
+  color: #f0a500;
+}
