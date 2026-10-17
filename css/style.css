@@ -321,3 +321,56 @@ img {
 .rodape a:focus-visible {
   color: #f0a500;
 }
+
+/* Integrantes */
+.integrante {
+  display: inline-block;
+  vertical-align: top;
+  width: 32%;
+  margin: 0 2% 1.5rem 0;
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #d7dee6;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.grade .integrante:nth-child(3n) {
+  margin-right: 0;
+}
+
+.integrante img {
+  width: 140px;
+  height: auto;
+  margin: 0 auto 0.75rem;
+  border: 3px solid #d1e7dd;
+  border-radius: 8px;
+}
+
+.integrante h2 {
+  color: #0f5132;
+  font-size: 1.15rem;
+}
+
+.integrante .dados {
+  color: #5b6776;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.integrante .contatos a {
+  display: inline-block;
+  margin: 0.2rem 0.35rem 0;
+  padding: 0.35em 0.6em;
+  border: 1px solid #0f5132;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.integrante .contatos a:hover,
+.integrante .contatos a:focus-visible {
+  background-color: #0f5132;
+  color: #ffffff;
+}
