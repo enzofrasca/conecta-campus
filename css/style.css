@@ -1,0 +1,64 @@
+/*
+INTEGRANTES DO GRUPO
+RM574943-ENZO BARBOSA FRASCA
+RM575056-EVERSON DOMINGOS JUNIOR
+RM575724-JOÃO GABRIEL DA SILVA LEITE
+RM574448-CARLOS EDUARDO SCHMIDT COHEN
+RM574414-MIGUEL FREIRE TREVISAN
+*/
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base da tipografia */
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #1f2a37;
+  background-color: #f5f7fa;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+ul {
+  margin: 0 0 1rem 1.5rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+a {
+  color: #0f5132;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
