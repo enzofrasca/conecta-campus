@@ -26,3 +26,15 @@ HTML5 e CSS3. O projeto não usa JavaScript, frameworks nem bibliotecas externas
 - João Gabriel da Silva Leite - RM 575724 - Turma 1TDSPB
 - Carlos Eduardo Schmidt Cohen - RM 574448 - Turma 1TDSPB
 - Miguel Freire Trevisan - RM 574414 - Turma 1TDSPB
+
+## Fontes das imagens
+
+As fotos dos locais foram obtidas no Wikimedia Commons, com as licenças indicadas abaixo.
+As fotos dos integrantes são dos próprios autores.
+
+- **Biblioteca Central** - "Graz University-Library reading-room" (CC BY-SA 3.0) - https://commons.wikimedia.org/wiki/File:Graz_University-Library_reading-room.jpg
+- **Laboratório de Informática** - "Computer Laboratory" (CC BY-SA 4.0) - https://commons.wikimedia.org/wiki/File:Computer_Laboratory.jpg
+- **Cantina** - "Al-Quds College - Cafeteria" (CC BY-SA 3.0) - https://commons.wikimedia.org/wiki/File:Al-Quds_College_-_Cafeteria.jpg
+- **Quadra Poliesportiva** - "Seattle - McGilvra School 05 - covered outdoor basketball courts" (CC BY-SA 4.0) - https://commons.wikimedia.org/wiki/File:Seattle_-_McGilvra_School_05_-_covered_outdoor_basketball_courts.jpg
+- **Auditório** - "Ohio University Lecture Hall" (CC0) - https://commons.wikimedia.org/wiki/File:Ohio_University_Lecture_Hall.jpg
+- **Sala de Estudos em Grupo** - "Leiden University Library, Group Study Room" (CC BY 3.0) - https://commons.wikimedia.org/wiki/File:Leiden_University_Library,_Group_Study_Room.jpg
