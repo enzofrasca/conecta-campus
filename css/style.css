@@ -91,3 +91,66 @@ img {
   background-color: #0f5132;
   text-decoration: underline;
 }
+
+/* Cabecalho */
+.cabecalho {
+  background-color: #0f5132;
+  border-bottom: 4px solid #f0a500;
+  padding: 0.75rem 0;
+}
+
+.cabecalho .container {
+  font-size: 0;
+}
+
+.logo {
+  display: inline-block;
+  width: 25%;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.logo span {
+  color: #f0a500;
+}
+
+.menu {
+  display: inline-block;
+  width: 75%;
+  margin: 0;
+  list-style: none;
+  text-align: right;
+  vertical-align: middle;
+  font-size: 1rem;
+}
+
+.menu li {
+  display: inline-block;
+  margin: 0 0 0 0.75rem;
+}
+
+.menu a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  color: #d1e7dd;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+
+.menu a:hover {
+  color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+
+.menu a:focus-visible {
+  outline: 3px solid #f0a500;
+  outline-offset: 2px;
+}
+
+.menu a.ativo {
+  color: #ffffff;
+  border-bottom-color: #f0a500;
+}
