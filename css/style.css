@@ -374,3 +374,9 @@ img {
   background-color: #0f5132;
   color: #ffffff;
 }
+
+/* Foco visivel em qualquer link do site */
+a:focus-visible {
+  outline: 3px solid #f0a500;
+  outline-offset: 2px;
+}
