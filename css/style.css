@@ -280,3 +280,22 @@ img {
 .card-local p {
   margin-bottom: 0.4rem;
 }
+
+/* Detalhes do local */
+.detalhes .foto-local {
+  width: 100%;
+  max-width: 640px;
+  margin-bottom: 1.5rem;
+  border: 1px solid #d7dee6;
+  border-radius: 8px;
+}
+
+.detalhes h2 {
+  color: #0f5132;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.detalhes ul {
+  max-width: 640px;
+}
