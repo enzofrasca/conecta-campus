@@ -236,11 +236,6 @@ img {
   color: #0f5132;
 }
 
-.categoria {
-  color: #5b6776;
-  font-size: 0.9rem;
-}
-
 /* Paginas internas */
 .pagina h1 {
   color: #0f5132;
@@ -311,15 +306,6 @@ img {
 .rodape p {
   margin-bottom: 0;
   font-size: 0.9rem;
-}
-
-.rodape a {
-  color: #ffffff;
-}
-
-.rodape a:hover,
-.rodape a:focus-visible {
-  color: #f0a500;
 }
 
 /* Integrantes */
