@@ -76,22 +76,6 @@ img {
   padding: 2.5rem 0;
 }
 
-.pular {
-  display: block;
-  padding: 0.5rem 1rem;
-  background-color: #082e1d;
-  color: #ffffff;
-  font-size: 0.85rem;
-  text-align: center;
-  text-decoration: none;
-}
-
-.pular:hover,
-.pular:focus-visible {
-  background-color: #0f5132;
-  text-decoration: underline;
-}
-
 /* Cabecalho */
 .cabecalho {
   background-color: #0f5132;
